@@ -47,7 +47,7 @@ row_spec(0, bold = T, color = "white", background = "black")  %>%
 _**Madrid**_ {data-width=850}
 -------------------------------------------
 
-### Budget as of October 15th, 2020
+### Budget as of October 15th, 2019
 
 <br><br>
 
